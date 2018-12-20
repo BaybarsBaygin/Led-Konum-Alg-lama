@@ -1,0 +1,38 @@
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\Led Yakma.exe.config
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\Led Yakma.exe
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\Led Yakma.pdb
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Imaging.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Neuro.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Video.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Vision.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Math.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Genetic.dll
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Imaging.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Neuro.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Video.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Vision.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Math.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\bin\Debug\AForge.Genetic.xml
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\obj\Debug\Led Yakma.csprojAssemblyReference.cache
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\obj\Debug\Led_Yakma.Form1.resources
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\obj\Debug\Led_Yakma.Properties.Resources.resources
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\obj\Debug\Led Yakma.csproj.GenerateResource.cache
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\obj\Debug\Led Yakma.csproj.CoreCompileInputs.cache
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\obj\Debug\Led Yakma.csproj.CopyComplete
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\obj\Debug\Led Yakma.exe
+C:\Users\Baybars\source\repos\Led Yakma\Led Yakma\obj\Debug\Led Yakma.pdb
